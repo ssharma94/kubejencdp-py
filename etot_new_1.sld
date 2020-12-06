@@ -15,7 +15,7 @@
                 <sld:SourceChannelName>1</sld:SourceChannelName>
               </sld:GrayChannel>
             </sld:ChannelSelection>
-            <sld:ColorMap type="ramp">
+            <sld:ColorMap type="values">
               <sld:ColorMapEntry quantity="0" color="#440154" label="0"/>
               <sld:ColorMapEntry quantity="37.0263671875" color="#3a528b" label="37"/>
               <sld:ColorMapEntry quantity="74.052734375" color="#20908d" label="74.1"/>
