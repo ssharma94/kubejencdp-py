@@ -4,7 +4,7 @@
     <sld:LayerFeatureConstraints>
       <sld:FeatureTypeConstraint/>
     </sld:LayerFeatureConstraints>
-    <sld:Name>etot</sld:Name>
+    <sld:Name>0</sld:Name>
     <sld:UserStyle>
       <sld:Name>etot_monthly_grid_phys_quant05</sld:Name>
       <sld:FeatureTypeStyle>
